@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Andrei 👋
 
 Bem-vindo ao meu perfil no GitHub! 🎉
 
@@ -10,11 +10,7 @@ Sou um desenvolvedor apaixonado por [tecnologias que você usa], com foco em [á
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=blue)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=green)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange)
 
 ---
